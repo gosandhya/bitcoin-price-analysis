@@ -3,6 +3,9 @@
 - In this project, I am analyzing the Bitcoin price dataset to find out the patterns in price changes. The goal behind this project is to find the patterns in historical data that might be useful in answering the sudden surge in the bitcoin price. My study is divided in to three parts:
 
 - To analyze the seasonal trend in the Bitcoin price.
+
+![Month-of-year analysis](https://github.com/SandhyaaGopchandani/BitcoinPriceAnalysis/blob/master/yearlymonthofyear.png
+)
 - To find the correlation among Bitcoin price and variables around it e.g Blocksize, hashrate, transaction rate.
 - To find the relationship between Bitcoin price and Stock market price and see if there is any apparent trend.
 
