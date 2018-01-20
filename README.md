@@ -11,6 +11,9 @@
 - To find the relationship between Bitcoin price and Stock market price and see if there is any apparent trend.
 
 ![Bitcoin vs US Stock](https://github.com/SandhyaaGopchandani/BitcoinPriceAnalysis/blob/master/usstock.png)
+
+- Stability in Bitcoin Price over the last five years
+![Bitcoin Price Stability](https://github.com/SandhyaaGopchandani/BitcoinPriceAnalysis/blob/master/btc_stability.png)
 These are some of the results of my analysis. The code and complete documentation of the results is available in the repo.
 
 ## Datasets and Tools
