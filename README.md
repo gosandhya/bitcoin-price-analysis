@@ -7,8 +7,10 @@
 ![Month-of-year analysis](https://github.com/SandhyaaGopchandani/BitcoinPriceAnalysis/blob/master/yearlymonthofyear.png
 )
 - To find the correlation among Bitcoin price and variables around it e.g Blocksize, hashrate, transaction rate.
+![Bitcoin vs variables](https://github.com/SandhyaaGopchandani/BitcoinPriceAnalysis/blob/master/variablecorrelation.png)
 - To find the relationship between Bitcoin price and Stock market price and see if there is any apparent trend.
 
+![Bitcoin vs US Stock](https://github.com/SandhyaaGopchandani/BitcoinPriceAnalysis/blob/master/usstock.png)
 These are some of the results of my analysis. The code and complete documentation of the results is available in the repo.
 
 ## Datasets and Tools
